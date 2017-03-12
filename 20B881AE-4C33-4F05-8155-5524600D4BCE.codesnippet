@@ -10,7 +10,7 @@
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>
-- (id)init
+- (instancetype)init
 {
     self = [super init];
     if (self) {
